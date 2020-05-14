@@ -1,0 +1,16 @@
+.titre {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color : grey;
+    font-size : 50px;
+    font-weight: bold;
+}
+.sous-titre {
+    color : lightgray;
+    font-size : 30px;
+    font-weight: lighter;
+}
+.debut {
+    color: yellow;
+    font-size : 40px;
+    font-weight: bold;
+}
